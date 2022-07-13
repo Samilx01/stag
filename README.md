@@ -5,7 +5,7 @@
 [Support](https://t.me/Majesteler) Telegram Support Grub .
 
 ### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MacroKeke/spTaggerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Samilx01/stag)
 -
 
 
